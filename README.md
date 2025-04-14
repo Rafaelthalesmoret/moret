@@ -64,19 +64,18 @@
       <li>Direito do Consumidor</li>
       <li>Direito Trabalhista</li>
       <li>Direito Civil</li>
-      <li>Responsabilidade Civil e Defesa da Imagem</li>
     </ul>
   </section>
 
   <section id="contato">
     <h2>Contato</h2>
-    <p>📧 moret.thales@gmail.com</p>
-    <p>📞 (21) 96888-5678</p>
-    <p>📍 Atendimentos presenciais e online com agendamento</p>
+    <p>📧 email@email.com</p>
+    <p>📞 (21) 00000-0000</p>
+    <p>📍 Agende seu atendimento</p>
   </section>
 
   <footer>
-    &copy; 2025 Rafael Thales Moret | OAB/RJ [número]
+    &copy; 2025 nome do advogado t | OAB/RJ [número]
   </footer>
 
 </body>
